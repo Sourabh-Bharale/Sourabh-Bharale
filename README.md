@@ -1,5 +1,5 @@
   # I'm An Developer
-  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="about me"/>
+  <img width="400px" src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="about me"/>
 
 - 👨‍💻 Wanna check on me ? [https://sourabhbharale.vercel.app](https://sourabhbharale.vercel.app)
 
