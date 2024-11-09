@@ -1,4 +1,4 @@
-  # I'm An Developer
+  # I'm A Developer
 
 - 👨‍💻 Wanna check on me ? <a href="https://www.sourabhbharale.in">www.sourabhbharale.in</a>
 
